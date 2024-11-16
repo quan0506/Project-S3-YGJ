@@ -1,0 +1,538 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SEM3 ApTech\\Project-S3-YGJ\\be_projectSEM3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C52D2D20-84BF-481A-9A8E-1DF30122CC45}|WebKimCuong\\WebKimCuong.csproj|d:\\sem3 aptech\\project-s3-ygj\\be_projectsem3\\webkimcuong\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C52D2D20-84BF-481A-9A8E-1DF30122CC45}|WebKimCuong\\WebKimCuong.csproj|solutionrelative:webkimcuong\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C52D2D20-84BF-481A-9A8E-1DF30122CC45}|WebKimCuong\\WebKimCuong.csproj|d:\\sem3 aptech\\project-s3-ygj\\be_projectsem3\\webkimcuong\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C52D2D20-84BF-481A-9A8E-1DF30122CC45}|WebKimCuong\\WebKimCuong.csproj|solutionrelative:webkimcuong\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C52D2D20-84BF-481A-9A8E-1DF30122CC45}|WebKimCuong\\WebKimCuong.csproj|d:\\sem3 aptech\\project-s3-ygj\\be_projectsem3\\webkimcuong\\views\\shared\\emailtemplate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C52D2D20-84BF-481A-9A8E-1DF30122CC45}|WebKimCuong\\WebKimCuong.csproj|solutionrelative:webkimcuong\\views\\shared\\emailtemplate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BAF351A-D3BC-4090-B245-677A9FD5024B}|Payment.Applications\\Payment.Applications.csproj|d:\\sem3 aptech\\project-s3-ygj\\be_projectsem3\\payment.applications\\features\\merchant\\commands\\createmerchant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BAF351A-D3BC-4090-B245-677A9FD5024B}|Payment.Applications\\Payment.Applications.csproj|solutionrelative:payment.applications\\features\\merchant\\commands\\createmerchant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C52D2D20-84BF-481A-9A8E-1DF30122CC45}|WebKimCuong\\WebKimCuong.csproj|d:\\sem3 aptech\\project-s3-ygj\\be_projectsem3\\webkimcuong\\models\\dbcontexts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C52D2D20-84BF-481A-9A8E-1DF30122CC45}|WebKimCuong\\WebKimCuong.csproj|solutionrelative:webkimcuong\\models\\dbcontexts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C52D2D20-84BF-481A-9A8E-1DF30122CC45}|WebKimCuong\\WebKimCuong.csproj|d:\\sem3 aptech\\project-s3-ygj\\be_projectsem3\\webkimcuong\\views\\shared\\donhanghuy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C52D2D20-84BF-481A-9A8E-1DF30122CC45}|WebKimCuong\\WebKimCuong.csproj|solutionrelative:webkimcuong\\views\\shared\\donhanghuy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C52D2D20-84BF-481A-9A8E-1DF30122CC45}|WebKimCuong\\WebKimCuong.csproj|d:\\sem3 aptech\\project-s3-ygj\\be_projectsem3\\webkimcuong\\views\\shared\\xacnhandonhang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C52D2D20-84BF-481A-9A8E-1DF30122CC45}|WebKimCuong\\WebKimCuong.csproj|solutionrelative:webkimcuong\\views\\shared\\xacnhandonhang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C52D2D20-84BF-481A-9A8E-1DF30122CC45}|WebKimCuong\\WebKimCuong.csproj|d:\\sem3 aptech\\project-s3-ygj\\be_projectsem3\\webkimcuong\\accountservice\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C52D2D20-84BF-481A-9A8E-1DF30122CC45}|WebKimCuong\\WebKimCuong.csproj|solutionrelative:webkimcuong\\accountservice\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C52D2D20-84BF-481A-9A8E-1DF30122CC45}|WebKimCuong\\WebKimCuong.csproj|d:\\sem3 aptech\\project-s3-ygj\\be_projectsem3\\webkimcuong\\accountservice\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C52D2D20-84BF-481A-9A8E-1DF30122CC45}|WebKimCuong\\WebKimCuong.csproj|solutionrelative:webkimcuong\\accountservice\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C52D2D20-84BF-481A-9A8E-1DF30122CC45}|WebKimCuong\\WebKimCuong.csproj|d:\\sem3 aptech\\project-s3-ygj\\be_projectsem3\\webkimcuong\\controllers\\userregmstcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C52D2D20-84BF-481A-9A8E-1DF30122CC45}|WebKimCuong\\WebKimCuong.csproj|solutionrelative:webkimcuong\\controllers\\userregmstcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C52D2D20-84BF-481A-9A8E-1DF30122CC45}|WebKimCuong\\WebKimCuong.csproj|d:\\sem3 aptech\\project-s3-ygj\\be_projectsem3\\webkimcuong\\accountservice\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C52D2D20-84BF-481A-9A8E-1DF30122CC45}|WebKimCuong\\WebKimCuong.csproj|solutionrelative:webkimcuong\\accountservice\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C52D2D20-84BF-481A-9A8E-1DF30122CC45}|WebKimCuong\\WebKimCuong.csproj|d:\\sem3 aptech\\project-s3-ygj\\be_projectsem3\\webkimcuong\\migrations\\20240728182425_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C52D2D20-84BF-481A-9A8E-1DF30122CC45}|WebKimCuong\\WebKimCuong.csproj|solutionrelative:webkimcuong\\migrations\\20240728182425_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C52D2D20-84BF-481A-9A8E-1DF30122CC45}|WebKimCuong\\WebKimCuong.csproj|d:\\sem3 aptech\\project-s3-ygj\\be_projectsem3\\webkimcuong\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C52D2D20-84BF-481A-9A8E-1DF30122CC45}|WebKimCuong\\WebKimCuong.csproj|solutionrelative:webkimcuong\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C52D2D20-84BF-481A-9A8E-1DF30122CC45}|WebKimCuong\\WebKimCuong.csproj|d:\\sem3 aptech\\project-s3-ygj\\be_projectsem3\\webkimcuong\\viewmodel\\xulydonhangdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C52D2D20-84BF-481A-9A8E-1DF30122CC45}|WebKimCuong\\WebKimCuong.csproj|solutionrelative:webkimcuong\\viewmodel\\xulydonhangdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C52D2D20-84BF-481A-9A8E-1DF30122CC45}|WebKimCuong\\WebKimCuong.csproj|d:\\sem3 aptech\\project-s3-ygj\\be_projectsem3\\webkimcuong\\accountservice\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C52D2D20-84BF-481A-9A8E-1DF30122CC45}|WebKimCuong\\WebKimCuong.csproj|solutionrelative:webkimcuong\\accountservice\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C52D2D20-84BF-481A-9A8E-1DF30122CC45}|WebKimCuong\\WebKimCuong.csproj|d:\\sem3 aptech\\project-s3-ygj\\be_projectsem3\\webkimcuong\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C52D2D20-84BF-481A-9A8E-1DF30122CC45}|WebKimCuong\\WebKimCuong.csproj|solutionrelative:webkimcuong\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BAF351A-D3BC-4090-B245-677A9FD5024B}|Payment.Applications\\Payment.Applications.csproj|d:\\sem3 aptech\\project-s3-ygj\\be_projectsem3\\payment.applications\\features\\payment\\commands\\processvnpaypaymentreturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BAF351A-D3BC-4090-B245-677A9FD5024B}|Payment.Applications\\Payment.Applications.csproj|solutionrelative:payment.applications\\features\\payment\\commands\\processvnpaypaymentreturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BAF351A-D3BC-4090-B245-677A9FD5024B}|Payment.Applications\\Payment.Applications.csproj|d:\\sem3 aptech\\project-s3-ygj\\be_projectsem3\\payment.applications\\features\\payment\\commands\\createpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BAF351A-D3BC-4090-B245-677A9FD5024B}|Payment.Applications\\Payment.Applications.csproj|solutionrelative:payment.applications\\features\\payment\\commands\\createpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C52D2D20-84BF-481A-9A8E-1DF30122CC45}|WebKimCuong\\WebKimCuong.csproj|d:\\sem3 aptech\\project-s3-ygj\\be_projectsem3\\webkimcuong\\viewmodel\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C52D2D20-84BF-481A-9A8E-1DF30122CC45}|WebKimCuong\\WebKimCuong.csproj|solutionrelative:webkimcuong\\viewmodel\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C52D2D20-84BF-481A-9A8E-1DF30122CC45}|WebKimCuong\\WebKimCuong.csproj|d:\\sem3 aptech\\project-s3-ygj\\be_projectsem3\\webkimcuong\\viewmodel\\shopdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C52D2D20-84BF-481A-9A8E-1DF30122CC45}|WebKimCuong\\WebKimCuong.csproj|solutionrelative:webkimcuong\\viewmodel\\shopdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C52D2D20-84BF-481A-9A8E-1DF30122CC45}|WebKimCuong\\WebKimCuong.csproj|d:\\sem3 aptech\\project-s3-ygj\\be_projectsem3\\webkimcuong\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C52D2D20-84BF-481A-9A8E-1DF30122CC45}|WebKimCuong\\WebKimCuong.csproj|solutionrelative:webkimcuong\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C52D2D20-84BF-481A-9A8E-1DF30122CC45}|WebKimCuong\\WebKimCuong.csproj|d:\\sem3 aptech\\project-s3-ygj\\be_projectsem3\\webkimcuong\\controllers\\paymentdestinationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C52D2D20-84BF-481A-9A8E-1DF30122CC45}|WebKimCuong\\WebKimCuong.csproj|solutionrelative:webkimcuong\\controllers\\paymentdestinationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C52D2D20-84BF-481A-9A8E-1DF30122CC45}|WebKimCuong\\WebKimCuong.csproj|d:\\sem3 aptech\\project-s3-ygj\\be_projectsem3\\webkimcuong\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C52D2D20-84BF-481A-9A8E-1DF30122CC45}|WebKimCuong\\WebKimCuong.csproj|solutionrelative:webkimcuong\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BAF351A-D3BC-4090-B245-677A9FD5024B}|Payment.Applications\\Payment.Applications.csproj|d:\\sem3 aptech\\project-s3-ygj\\be_projectsem3\\payment.applications\\features\\paymenttransaction\\commands\\createpaymenttransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BAF351A-D3BC-4090-B245-677A9FD5024B}|Payment.Applications\\Payment.Applications.csproj|solutionrelative:payment.applications\\features\\paymenttransaction\\commands\\createpaymenttransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BAF351A-D3BC-4090-B245-677A9FD5024B}|Payment.Applications\\Payment.Applications.csproj|d:\\sem3 aptech\\project-s3-ygj\\be_projectsem3\\payment.applications\\features\\paymentsignature\\commands\\createpaymentsignature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BAF351A-D3BC-4090-B245-677A9FD5024B}|Payment.Applications\\Payment.Applications.csproj|solutionrelative:payment.applications\\features\\paymentsignature\\commands\\createpaymentsignature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BAF351A-D3BC-4090-B245-677A9FD5024B}|Payment.Applications\\Payment.Applications.csproj|d:\\sem3 aptech\\project-s3-ygj\\be_projectsem3\\payment.applications\\features\\paymentnotification\\commands\\createpaymentnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BAF351A-D3BC-4090-B245-677A9FD5024B}|Payment.Applications\\Payment.Applications.csproj|solutionrelative:payment.applications\\features\\paymentnotification\\commands\\createpaymentnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BAF351A-D3BC-4090-B245-677A9FD5024B}|Payment.Applications\\Payment.Applications.csproj|d:\\sem3 aptech\\project-s3-ygj\\be_projectsem3\\payment.applications\\features\\paymentdestination\\commands\\createpaymentdestination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BAF351A-D3BC-4090-B245-677A9FD5024B}|Payment.Applications\\Payment.Applications.csproj|solutionrelative:payment.applications\\features\\paymentdestination\\commands\\createpaymentdestination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C52D2D20-84BF-481A-9A8E-1DF30122CC45}|WebKimCuong\\WebKimCuong.csproj|d:\\sem3 aptech\\project-s3-ygj\\be_projectsem3\\webkimcuong\\controllers\\dimqltymstcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C52D2D20-84BF-481A-9A8E-1DF30122CC45}|WebKimCuong\\WebKimCuong.csproj|solutionrelative:webkimcuong\\controllers\\dimqltymstcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C52D2D20-84BF-481A-9A8E-1DF30122CC45}|WebKimCuong\\WebKimCuong.csproj|d:\\sem3 aptech\\project-s3-ygj\\be_projectsem3\\webkimcuong\\controllers\\stonemstcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C52D2D20-84BF-481A-9A8E-1DF30122CC45}|WebKimCuong\\WebKimCuong.csproj|solutionrelative:webkimcuong\\controllers\\stonemstcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C52D2D20-84BF-481A-9A8E-1DF30122CC45}|WebKimCuong\\WebKimCuong.csproj|d:\\sem3 aptech\\project-s3-ygj\\be_projectsem3\\webkimcuong\\controllers\\merchantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C52D2D20-84BF-481A-9A8E-1DF30122CC45}|WebKimCuong\\WebKimCuong.csproj|solutionrelative:webkimcuong\\controllers\\merchantscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C52D2D20-84BF-481A-9A8E-1DF30122CC45}|WebKimCuong\\WebKimCuong.csproj|d:\\sem3 aptech\\project-s3-ygj\\be_projectsem3\\webkimcuong\\controllers\\inquirycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C52D2D20-84BF-481A-9A8E-1DF30122CC45}|WebKimCuong\\WebKimCuong.csproj|solutionrelative:webkimcuong\\controllers\\inquirycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "XacNhanDonHang.cshtml",
+              "DocumentMoniker": "D:\\SEM3 ApTech\\Project-S3-YGJ\\be_projectSEM3\\WebKimCuong\\Views\\Shared\\XacNhanDonHang.cshtml",
+              "RelativeDocumentMoniker": "WebKimCuong\\Views\\Shared\\XacNhanDonHang.cshtml",
+              "ToolTip": "D:\\SEM3 ApTech\\Project-S3-YGJ\\be_projectSEM3\\WebKimCuong\\Views\\Shared\\XacNhanDonHang.cshtml",
+              "RelativeToolTip": "WebKimCuong\\Views\\Shared\\XacNhanDonHang.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-29T02:19:44.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmailTemplate.cshtml",
+              "DocumentMoniker": "D:\\SEM3 ApTech\\Project-S3-YGJ\\be_projectSEM3\\WebKimCuong\\Views\\Shared\\EmailTemplate.cshtml",
+              "RelativeDocumentMoniker": "WebKimCuong\\Views\\Shared\\EmailTemplate.cshtml",
+              "ToolTip": "D:\\SEM3 ApTech\\Project-S3-YGJ\\be_projectSEM3\\WebKimCuong\\Views\\Shared\\EmailTemplate.cshtml",
+              "RelativeToolTip": "WebKimCuong\\Views\\Shared\\EmailTemplate.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAE0AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-29T02:19:01.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserRegMstController.cs",
+              "DocumentMoniker": "D:\\SEM3 ApTech\\Project-S3-YGJ\\be_projectSEM3\\WebKimCuong\\Controllers\\UserRegMstController.cs",
+              "RelativeDocumentMoniker": "WebKimCuong\\Controllers\\UserRegMstController.cs",
+              "ToolTip": "D:\\SEM3 ApTech\\Project-S3-YGJ\\be_projectSEM3\\WebKimCuong\\Controllers\\UserRegMstController.cs",
+              "RelativeToolTip": "WebKimCuong\\Controllers\\UserRegMstController.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAA1wDgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T09:47:58.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "D:\\SEM3 ApTech\\Project-S3-YGJ\\be_projectSEM3\\WebKimCuong\\AccountService\\AccountService.cs",
+              "RelativeDocumentMoniker": "WebKimCuong\\AccountService\\AccountService.cs",
+              "ToolTip": "D:\\SEM3 ApTech\\Project-S3-YGJ\\be_projectSEM3\\WebKimCuong\\AccountService\\AccountService.cs",
+              "RelativeToolTip": "WebKimCuong\\AccountService\\AccountService.cs",
+              "ViewState": "AQIAAEECAAAAAAAAAADwv08CAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T17:12:21.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\SEM3 ApTech\\Project-S3-YGJ\\be_projectSEM3\\WebKimCuong\\AccountService\\ProductService.cs",
+              "RelativeDocumentMoniker": "WebKimCuong\\AccountService\\ProductService.cs",
+              "ToolTip": "D:\\SEM3 ApTech\\Project-S3-YGJ\\be_projectSEM3\\WebKimCuong\\AccountService\\ProductService.cs",
+              "RelativeToolTip": "WebKimCuong\\AccountService\\ProductService.cs",
+              "ViewState": "AQIAACwDAAAAAAAAAAAWwCUDAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T16:14:58.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\SEM3 ApTech\\Project-S3-YGJ\\be_projectSEM3\\WebKimCuong\\appsettings.json",
+              "RelativeDocumentMoniker": "WebKimCuong\\appsettings.json",
+              "ToolTip": "D:\\SEM3 ApTech\\Project-S3-YGJ\\be_projectSEM3\\WebKimCuong\\appsettings.json",
+              "RelativeToolTip": "WebKimCuong\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-25T21:45:53.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DonHangHuy.cshtml",
+              "DocumentMoniker": "D:\\SEM3 ApTech\\Project-S3-YGJ\\be_projectSEM3\\WebKimCuong\\Views\\Shared\\DonHangHuy.cshtml",
+              "RelativeDocumentMoniker": "WebKimCuong\\Views\\Shared\\DonHangHuy.cshtml",
+              "ToolTip": "D:\\SEM3 ApTech\\Project-S3-YGJ\\be_projectSEM3\\WebKimCuong\\Views\\Shared\\DonHangHuy.cshtml",
+              "RelativeToolTip": "WebKimCuong\\Views\\Shared\\DonHangHuy.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAB0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-26T03:09:24.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DBContexts.cs",
+              "DocumentMoniker": "D:\\SEM3 ApTech\\Project-S3-YGJ\\be_projectSEM3\\WebKimCuong\\Models\\DBContexts.cs",
+              "RelativeDocumentMoniker": "WebKimCuong\\Models\\DBContexts.cs",
+              "ToolTip": "D:\\SEM3 ApTech\\Project-S3-YGJ\\be_projectSEM3\\WebKimCuong\\Models\\DBContexts.cs",
+              "RelativeToolTip": "WebKimCuong\\Models\\DBContexts.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAACBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T15:51:44.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "D:\\SEM3 ApTech\\Project-S3-YGJ\\be_projectSEM3\\WebKimCuong\\AccountService\\OrderService.cs",
+              "RelativeDocumentMoniker": "WebKimCuong\\AccountService\\OrderService.cs",
+              "ToolTip": "D:\\SEM3 ApTech\\Project-S3-YGJ\\be_projectSEM3\\WebKimCuong\\AccountService\\OrderService.cs",
+              "RelativeToolTip": "WebKimCuong\\AccountService\\OrderService.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAswEEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T20:29:14.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SEM3 ApTech\\Project-S3-YGJ\\be_projectSEM3\\WebKimCuong\\Program.cs",
+              "RelativeDocumentMoniker": "WebKimCuong\\Program.cs",
+              "ToolTip": "D:\\SEM3 ApTech\\Project-S3-YGJ\\be_projectSEM3\\WebKimCuong\\Program.cs",
+              "RelativeToolTip": "WebKimCuong\\Program.cs",
+              "ViewState": "AQIAAIAAAAAAAAAAAAAAAHkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T02:26:07.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240728182425_initial.cs",
+              "DocumentMoniker": "D:\\SEM3 ApTech\\Project-S3-YGJ\\be_projectSEM3\\WebKimCuong\\Migrations\\20240728182425_initial.cs",
+              "RelativeDocumentMoniker": "WebKimCuong\\Migrations\\20240728182425_initial.cs",
+              "ToolTip": "D:\\SEM3 ApTech\\Project-S3-YGJ\\be_projectSEM3\\WebKimCuong\\Migrations\\20240728182425_initial.cs",
+              "RelativeToolTip": "WebKimCuong\\Migrations\\20240728182425_initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T18:24:25.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\SEM3 ApTech\\Project-S3-YGJ\\be_projectSEM3\\WebKimCuong\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "WebKimCuong\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\SEM3 ApTech\\Project-S3-YGJ\\be_projectSEM3\\WebKimCuong\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "WebKimCuong\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwC4AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T09:22:50.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "XulydonhangDTO.cs",
+              "DocumentMoniker": "D:\\SEM3 ApTech\\Project-S3-YGJ\\be_projectSEM3\\WebKimCuong\\ViewModel\\XulydonhangDTO.cs",
+              "RelativeDocumentMoniker": "WebKimCuong\\ViewModel\\XulydonhangDTO.cs",
+              "ToolTip": "D:\\SEM3 ApTech\\Project-S3-YGJ\\be_projectSEM3\\WebKimCuong\\ViewModel\\XulydonhangDTO.cs",
+              "RelativeToolTip": "WebKimCuong\\ViewModel\\XulydonhangDTO.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAIA1wBkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T02:26:58.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "D:\\SEM3 ApTech\\Project-S3-YGJ\\be_projectSEM3\\WebKimCuong\\AccountService\\IOrderService.cs",
+              "RelativeDocumentMoniker": "WebKimCuong\\AccountService\\IOrderService.cs",
+              "ToolTip": "D:\\SEM3 ApTech\\Project-S3-YGJ\\be_projectSEM3\\WebKimCuong\\AccountService\\IOrderService.cs",
+              "RelativeToolTip": "WebKimCuong\\AccountService\\IOrderService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAApwA0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T07:31:29.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CreatePayment.cs",
+              "DocumentMoniker": "D:\\SEM3 ApTech\\Project-S3-YGJ\\be_projectSEM3\\Payment.Applications\\Features\\Payment\\Commands\\CreatePayment.cs",
+              "RelativeDocumentMoniker": "Payment.Applications\\Features\\Payment\\Commands\\CreatePayment.cs",
+              "ToolTip": "D:\\SEM3 ApTech\\Project-S3-YGJ\\be_projectSEM3\\Payment.Applications\\Features\\Payment\\Commands\\CreatePayment.cs",
+              "RelativeToolTip": "Payment.Applications\\Features\\Payment\\Commands\\CreatePayment.cs",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAkwGQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T15:08:45.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\SEM3 ApTech\\Project-S3-YGJ\\be_projectSEM3\\WebKimCuong\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "WebKimCuong\\Controllers\\OrderController.cs",
+              "ToolTip": "D:\\SEM3 ApTech\\Project-S3-YGJ\\be_projectSEM3\\WebKimCuong\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "WebKimCuong\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAMwF4AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T11:36:56.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProcessVnpayPaymentReturn.cs",
+              "DocumentMoniker": "D:\\SEM3 ApTech\\Project-S3-YGJ\\be_projectSEM3\\Payment.Applications\\Features\\Payment\\Commands\\ProcessVnpayPaymentReturn.cs",
+              "RelativeDocumentMoniker": "Payment.Applications\\Features\\Payment\\Commands\\ProcessVnpayPaymentReturn.cs",
+              "ToolTip": "D:\\SEM3 ApTech\\Project-S3-YGJ\\be_projectSEM3\\Payment.Applications\\Features\\Payment\\Commands\\ProcessVnpayPaymentReturn.cs",
+              "RelativeToolTip": "Payment.Applications\\Features\\Payment\\Commands\\ProcessVnpayPaymentReturn.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAApwEAAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T16:58:38.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateMerchant.cs",
+              "DocumentMoniker": "D:\\SEM3 ApTech\\Project-S3-YGJ\\be_projectSEM3\\Payment.Applications\\Features\\Merchant\\Commands\\CreateMerchant.cs",
+              "RelativeDocumentMoniker": "Payment.Applications\\Features\\Merchant\\Commands\\CreateMerchant.cs",
+              "ToolTip": "D:\\SEM3 ApTech\\Project-S3-YGJ\\be_projectSEM3\\Payment.Applications\\Features\\Merchant\\Commands\\CreateMerchant.cs",
+              "RelativeToolTip": "Payment.Applications\\Features\\Merchant\\Commands\\CreateMerchant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T11:31:10.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CommentController.cs",
+              "DocumentMoniker": "D:\\SEM3 ApTech\\Project-S3-YGJ\\be_projectSEM3\\WebKimCuong\\Controllers\\CommentController.cs",
+              "RelativeDocumentMoniker": "WebKimCuong\\Controllers\\CommentController.cs",
+              "ToolTip": "D:\\SEM3 ApTech\\Project-S3-YGJ\\be_projectSEM3\\WebKimCuong\\Controllers\\CommentController.cs",
+              "RelativeToolTip": "WebKimCuong\\Controllers\\CommentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T15:53:49.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OrderDTO.cs",
+              "DocumentMoniker": "D:\\SEM3 ApTech\\Project-S3-YGJ\\be_projectSEM3\\WebKimCuong\\ViewModel\\OrderDTO.cs",
+              "RelativeDocumentMoniker": "WebKimCuong\\ViewModel\\OrderDTO.cs",
+              "ToolTip": "D:\\SEM3 ApTech\\Project-S3-YGJ\\be_projectSEM3\\WebKimCuong\\ViewModel\\OrderDTO.cs",
+              "RelativeToolTip": "WebKimCuong\\ViewModel\\OrderDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T10:47:56.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PaymentDestinationsController.cs",
+              "DocumentMoniker": "D:\\SEM3 ApTech\\Project-S3-YGJ\\be_projectSEM3\\WebKimCuong\\Controllers\\PaymentDestinationsController.cs",
+              "RelativeDocumentMoniker": "WebKimCuong\\Controllers\\PaymentDestinationsController.cs",
+              "ToolTip": "D:\\SEM3 ApTech\\Project-S3-YGJ\\be_projectSEM3\\WebKimCuong\\Controllers\\PaymentDestinationsController.cs",
+              "RelativeToolTip": "WebKimCuong\\Controllers\\PaymentDestinationsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T15:54:00.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ShopDTO.cs",
+              "DocumentMoniker": "D:\\SEM3 ApTech\\Project-S3-YGJ\\be_projectSEM3\\WebKimCuong\\ViewModel\\ShopDTO.cs",
+              "RelativeDocumentMoniker": "WebKimCuong\\ViewModel\\ShopDTO.cs",
+              "ToolTip": "D:\\SEM3 ApTech\\Project-S3-YGJ\\be_projectSEM3\\WebKimCuong\\ViewModel\\ShopDTO.cs",
+              "RelativeToolTip": "WebKimCuong\\ViewModel\\ShopDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T02:25:46.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PaymentsController.cs",
+              "DocumentMoniker": "D:\\SEM3 ApTech\\Project-S3-YGJ\\be_projectSEM3\\WebKimCuong\\Controllers\\PaymentsController.cs",
+              "RelativeDocumentMoniker": "WebKimCuong\\Controllers\\PaymentsController.cs",
+              "ToolTip": "D:\\SEM3 ApTech\\Project-S3-YGJ\\be_projectSEM3\\WebKimCuong\\Controllers\\PaymentsController.cs",
+              "RelativeToolTip": "WebKimCuong\\Controllers\\PaymentsController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAYwC4AAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T15:54:01.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CreatePaymentTransaction.cs",
+              "DocumentMoniker": "D:\\SEM3 ApTech\\Project-S3-YGJ\\be_projectSEM3\\Payment.Applications\\Features\\PaymentTransaction\\Commands\\CreatePaymentTransaction.cs",
+              "RelativeDocumentMoniker": "Payment.Applications\\Features\\PaymentTransaction\\Commands\\CreatePaymentTransaction.cs",
+              "ToolTip": "D:\\SEM3 ApTech\\Project-S3-YGJ\\be_projectSEM3\\Payment.Applications\\Features\\PaymentTransaction\\Commands\\CreatePaymentTransaction.cs",
+              "RelativeToolTip": "Payment.Applications\\Features\\PaymentTransaction\\Commands\\CreatePaymentTransaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T15:20:04.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CreatePaymentSignature.cs",
+              "DocumentMoniker": "D:\\SEM3 ApTech\\Project-S3-YGJ\\be_projectSEM3\\Payment.Applications\\Features\\PaymentSignature\\Commands\\CreatePaymentSignature.cs",
+              "RelativeDocumentMoniker": "Payment.Applications\\Features\\PaymentSignature\\Commands\\CreatePaymentSignature.cs",
+              "ToolTip": "D:\\SEM3 ApTech\\Project-S3-YGJ\\be_projectSEM3\\Payment.Applications\\Features\\PaymentSignature\\Commands\\CreatePaymentSignature.cs",
+              "RelativeToolTip": "Payment.Applications\\Features\\PaymentSignature\\Commands\\CreatePaymentSignature.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T15:20:04.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CreatePaymentNotification.cs",
+              "DocumentMoniker": "D:\\SEM3 ApTech\\Project-S3-YGJ\\be_projectSEM3\\Payment.Applications\\Features\\PaymentNotification\\Commands\\CreatePaymentNotification.cs",
+              "RelativeDocumentMoniker": "Payment.Applications\\Features\\PaymentNotification\\Commands\\CreatePaymentNotification.cs",
+              "ToolTip": "D:\\SEM3 ApTech\\Project-S3-YGJ\\be_projectSEM3\\Payment.Applications\\Features\\PaymentNotification\\Commands\\CreatePaymentNotification.cs",
+              "RelativeToolTip": "Payment.Applications\\Features\\PaymentNotification\\Commands\\CreatePaymentNotification.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T15:20:03.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CreatePaymentDestination.cs",
+              "DocumentMoniker": "D:\\SEM3 ApTech\\Project-S3-YGJ\\be_projectSEM3\\Payment.Applications\\Features\\PaymentDestination\\Commands\\CreatePaymentDestination.cs",
+              "RelativeDocumentMoniker": "Payment.Applications\\Features\\PaymentDestination\\Commands\\CreatePaymentDestination.cs",
+              "ToolTip": "D:\\SEM3 ApTech\\Project-S3-YGJ\\be_projectSEM3\\Payment.Applications\\Features\\PaymentDestination\\Commands\\CreatePaymentDestination.cs",
+              "RelativeToolTip": "Payment.Applications\\Features\\PaymentDestination\\Commands\\CreatePaymentDestination.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T15:20:01.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DimQltyMstController.cs",
+              "DocumentMoniker": "D:\\SEM3 ApTech\\Project-S3-YGJ\\be_projectSEM3\\WebKimCuong\\Controllers\\DimQltyMstController.cs",
+              "RelativeDocumentMoniker": "WebKimCuong\\Controllers\\DimQltyMstController.cs",
+              "ToolTip": "D:\\SEM3 ApTech\\Project-S3-YGJ\\be_projectSEM3\\WebKimCuong\\Controllers\\DimQltyMstController.cs",
+              "RelativeToolTip": "WebKimCuong\\Controllers\\DimQltyMstController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T09:48:18.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MerchantsController.cs",
+              "DocumentMoniker": "D:\\SEM3 ApTech\\Project-S3-YGJ\\be_projectSEM3\\WebKimCuong\\Controllers\\MerchantsController.cs",
+              "RelativeDocumentMoniker": "WebKimCuong\\Controllers\\MerchantsController.cs",
+              "ToolTip": "D:\\SEM3 ApTech\\Project-S3-YGJ\\be_projectSEM3\\WebKimCuong\\Controllers\\MerchantsController.cs",
+              "RelativeToolTip": "WebKimCuong\\Controllers\\MerchantsController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T09:47:45.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "InquiryController.cs",
+              "DocumentMoniker": "D:\\SEM3 ApTech\\Project-S3-YGJ\\be_projectSEM3\\WebKimCuong\\Controllers\\InquiryController.cs",
+              "RelativeDocumentMoniker": "WebKimCuong\\Controllers\\InquiryController.cs",
+              "ToolTip": "D:\\SEM3 ApTech\\Project-S3-YGJ\\be_projectSEM3\\WebKimCuong\\Controllers\\InquiryController.cs",
+              "RelativeToolTip": "WebKimCuong\\Controllers\\InquiryController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T09:47:42.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "StoneMstController.cs",
+              "DocumentMoniker": "D:\\SEM3 ApTech\\Project-S3-YGJ\\be_projectSEM3\\WebKimCuong\\Controllers\\StoneMstController.cs",
+              "RelativeDocumentMoniker": "WebKimCuong\\Controllers\\StoneMstController.cs",
+              "ToolTip": "D:\\SEM3 ApTech\\Project-S3-YGJ\\be_projectSEM3\\WebKimCuong\\Controllers\\StoneMstController.cs",
+              "RelativeToolTip": "WebKimCuong\\Controllers\\StoneMstController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T09:47:20.114Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

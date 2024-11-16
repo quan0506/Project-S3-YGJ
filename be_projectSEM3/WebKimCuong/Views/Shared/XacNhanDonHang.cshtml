@@ -1,0 +1,113 @@
+﻿@using thuongmaidientus1.ViewModel
+@model XulydonhangDTO
+@{
+
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Email Template</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+
+        h1 {
+            align-items: center;
+            text-align: center;
+            font-weight: bold;
+        }
+
+        .container {
+            width: 80%;
+            margin: 0 auto;
+            text-align: center;
+        }
+
+        .logo {
+            width: 100px;
+            margin: 20px auto;
+        }
+
+        .header {
+            font-size: 24px;
+            font-weight: bold;
+            margin-top: 20px;
+            margin-bottom: 20px;
+        }
+
+        .sub-header {
+            font-size: 16px;
+            margin-bottom: 20px;
+        }
+
+        .order-details {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+
+            .order-details th, .order-details td {
+                border: 1px solid #ddd;
+                padding: 8px;
+            }
+
+            .order-details th {
+                background-color: #f2f2f2;
+                font-weight: bold;
+            }
+
+            .order-details td img {
+                width: 50px;
+            }
+
+        .totals {
+            text-align: right;
+            margin-top: 20px;
+        }
+
+            .totals td {
+                padding: 8px;
+            }
+
+        .email-footer {
+            margin-top: 40px;
+            font-size: 14px;
+        }
+
+    </style>
+</head>
+<body>
+    <div class="container">
+        @* <img src="~/images/YGJ-logo.png" alt="Logo" class="logo"> *@
+        <h1>YGJ</h1>
+        <div class="header">Confirmation of YGJ's order</div>
+        <div class="sub-header">Thanks for visiting us! We hope you love your new Glossier. This is your receipt. We recommend printing it, framing it, and hanging it somewhere important so you can always look back and remember your visit. Or just keep it in your email.</div>
+
+        <table class="order-details">
+            <thead>
+                <tr>
+                    <th>Product Name</th>
+                    <th>Quantity</th>
+                    <th>Price</th>
+                    <th>Total</th>
+                    <th>Status</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>@Model.product_name</td>
+                    <td>@Model.soluong</td>
+                    <td>@Model.price</td>
+                    <td>@Model.total</td>
+                    <td>@Model.trangthai</td>
+                </tr>
+
+            </tbody>
+        </table>
+
+        <div class="email-footer">
+            <p>© 2024 T2301E-Team2. All rights reserved.</p>
+        </div>
+    </div>
+</body>

@@ -1,0 +1,50 @@
+C:\Users\ASUS\source\repos\WebKimCuong\Payment.Domain\bin\Debug\net6.0\Payment.Domain.deps.json
+C:\Users\ASUS\source\repos\WebKimCuong\Payment.Domain\bin\Debug\net6.0\Payment.Domain.dll
+C:\Users\ASUS\source\repos\WebKimCuong\Payment.Domain\bin\Debug\net6.0\Payment.Domain.pdb
+C:\Users\ASUS\source\repos\WebKimCuong\Payment.Domain\obj\Debug\net6.0\Payment.Domain.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\WebKimCuong\Payment.Domain\obj\Debug\net6.0\Payment.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\WebKimCuong\Payment.Domain\obj\Debug\net6.0\Payment.Domain.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\WebKimCuong\Payment.Domain\obj\Debug\net6.0\Payment.Domain.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\WebKimCuong\Payment.Domain\obj\Debug\net6.0\Payment.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\WebKimCuong\Payment.Domain\obj\Debug\net6.0\Payment.Domain.dll
+C:\Users\ASUS\source\repos\WebKimCuong\Payment.Domain\obj\Debug\net6.0\refint\Payment.Domain.dll
+C:\Users\ASUS\source\repos\WebKimCuong\Payment.Domain\obj\Debug\net6.0\Payment.Domain.pdb
+C:\Users\ASUS\source\repos\WebKimCuong\Payment.Domain\obj\Debug\net6.0\ref\Payment.Domain.dll
+D:\PRJ3-main\WebKimCuongB\WebKimCuong\Payment.Domain\bin\Debug\net6.0\Payment.Domain.deps.json
+D:\PRJ3-main\WebKimCuongB\WebKimCuong\Payment.Domain\bin\Debug\net6.0\Payment.Domain.dll
+D:\PRJ3-main\WebKimCuongB\WebKimCuong\Payment.Domain\bin\Debug\net6.0\Payment.Domain.pdb
+D:\PRJ3-main\WebKimCuongB\WebKimCuong\Payment.Domain\obj\Debug\net6.0\Payment.Domain.csproj.AssemblyReference.cache
+D:\PRJ3-main\WebKimCuongB\WebKimCuong\Payment.Domain\obj\Debug\net6.0\Payment.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRJ3-main\WebKimCuongB\WebKimCuong\Payment.Domain\obj\Debug\net6.0\Payment.Domain.AssemblyInfoInputs.cache
+D:\PRJ3-main\WebKimCuongB\WebKimCuong\Payment.Domain\obj\Debug\net6.0\Payment.Domain.AssemblyInfo.cs
+D:\PRJ3-main\WebKimCuongB\WebKimCuong\Payment.Domain\obj\Debug\net6.0\Payment.Domain.csproj.CoreCompileInputs.cache
+D:\PRJ3-main\WebKimCuongB\WebKimCuong\Payment.Domain\obj\Debug\net6.0\Payment.Domain.dll
+D:\PRJ3-main\WebKimCuongB\WebKimCuong\Payment.Domain\obj\Debug\net6.0\refint\Payment.Domain.dll
+D:\PRJ3-main\WebKimCuongB\WebKimCuong\Payment.Domain\obj\Debug\net6.0\Payment.Domain.pdb
+D:\PRJ3-main\WebKimCuongB\WebKimCuong\Payment.Domain\obj\Debug\net6.0\ref\Payment.Domain.dll
+C:\Users\ASUS\OneDrive\Desktop\GiaoDienVueJs\DoAnCuaKhach\ShopKimCuong\CodeNew\Be\be_projectSEM3\Payment.Domain\bin\Debug\net6.0\Payment.Domain.deps.json
+C:\Users\ASUS\OneDrive\Desktop\GiaoDienVueJs\DoAnCuaKhach\ShopKimCuong\CodeNew\Be\be_projectSEM3\Payment.Domain\bin\Debug\net6.0\Payment.Domain.dll
+C:\Users\ASUS\OneDrive\Desktop\GiaoDienVueJs\DoAnCuaKhach\ShopKimCuong\CodeNew\Be\be_projectSEM3\Payment.Domain\bin\Debug\net6.0\Payment.Domain.pdb
+C:\Users\ASUS\OneDrive\Desktop\GiaoDienVueJs\DoAnCuaKhach\ShopKimCuong\CodeNew\Be\be_projectSEM3\Payment.Domain\obj\Debug\net6.0\Payment.Domain.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Desktop\GiaoDienVueJs\DoAnCuaKhach\ShopKimCuong\CodeNew\Be\be_projectSEM3\Payment.Domain\obj\Debug\net6.0\Payment.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\GiaoDienVueJs\DoAnCuaKhach\ShopKimCuong\CodeNew\Be\be_projectSEM3\Payment.Domain\obj\Debug\net6.0\Payment.Domain.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\GiaoDienVueJs\DoAnCuaKhach\ShopKimCuong\CodeNew\Be\be_projectSEM3\Payment.Domain\obj\Debug\net6.0\Payment.Domain.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\GiaoDienVueJs\DoAnCuaKhach\ShopKimCuong\CodeNew\Be\be_projectSEM3\Payment.Domain\obj\Debug\net6.0\Payment.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\GiaoDienVueJs\DoAnCuaKhach\ShopKimCuong\CodeNew\Be\be_projectSEM3\Payment.Domain\obj\Debug\net6.0\Payment.Domain.sourcelink.json
+C:\Users\ASUS\OneDrive\Desktop\GiaoDienVueJs\DoAnCuaKhach\ShopKimCuong\CodeNew\Be\be_projectSEM3\Payment.Domain\obj\Debug\net6.0\Payment.Domain.dll
+C:\Users\ASUS\OneDrive\Desktop\GiaoDienVueJs\DoAnCuaKhach\ShopKimCuong\CodeNew\Be\be_projectSEM3\Payment.Domain\obj\Debug\net6.0\refint\Payment.Domain.dll
+C:\Users\ASUS\OneDrive\Desktop\GiaoDienVueJs\DoAnCuaKhach\ShopKimCuong\CodeNew\Be\be_projectSEM3\Payment.Domain\obj\Debug\net6.0\Payment.Domain.pdb
+C:\Users\ASUS\OneDrive\Desktop\GiaoDienVueJs\DoAnCuaKhach\ShopKimCuong\CodeNew\Be\be_projectSEM3\Payment.Domain\obj\Debug\net6.0\ref\Payment.Domain.dll
+D:\Project YGJ Team 2 Sem 3 FPT Aptech\be_projectSEM3\Payment.Domain\bin\Debug\net6.0\Payment.Domain.deps.json
+D:\Project YGJ Team 2 Sem 3 FPT Aptech\be_projectSEM3\Payment.Domain\bin\Debug\net6.0\Payment.Domain.dll
+D:\Project YGJ Team 2 Sem 3 FPT Aptech\be_projectSEM3\Payment.Domain\bin\Debug\net6.0\Payment.Domain.pdb
+D:\Project YGJ Team 2 Sem 3 FPT Aptech\be_projectSEM3\Payment.Domain\obj\Debug\net6.0\Payment.Domain.csproj.AssemblyReference.cache
+D:\Project YGJ Team 2 Sem 3 FPT Aptech\be_projectSEM3\Payment.Domain\obj\Debug\net6.0\Payment.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project YGJ Team 2 Sem 3 FPT Aptech\be_projectSEM3\Payment.Domain\obj\Debug\net6.0\Payment.Domain.AssemblyInfoInputs.cache
+D:\Project YGJ Team 2 Sem 3 FPT Aptech\be_projectSEM3\Payment.Domain\obj\Debug\net6.0\Payment.Domain.AssemblyInfo.cs
+D:\Project YGJ Team 2 Sem 3 FPT Aptech\be_projectSEM3\Payment.Domain\obj\Debug\net6.0\Payment.Domain.csproj.CoreCompileInputs.cache
+D:\Project YGJ Team 2 Sem 3 FPT Aptech\be_projectSEM3\Payment.Domain\obj\Debug\net6.0\Payment.Domain.sourcelink.json
+D:\Project YGJ Team 2 Sem 3 FPT Aptech\be_projectSEM3\Payment.Domain\obj\Debug\net6.0\Payment.Domain.dll
+D:\Project YGJ Team 2 Sem 3 FPT Aptech\be_projectSEM3\Payment.Domain\obj\Debug\net6.0\refint\Payment.Domain.dll
+D:\Project YGJ Team 2 Sem 3 FPT Aptech\be_projectSEM3\Payment.Domain\obj\Debug\net6.0\Payment.Domain.pdb
+D:\Project YGJ Team 2 Sem 3 FPT Aptech\be_projectSEM3\Payment.Domain\obj\Debug\net6.0\ref\Payment.Domain.dll

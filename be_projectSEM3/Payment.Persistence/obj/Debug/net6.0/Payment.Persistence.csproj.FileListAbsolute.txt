@@ -1,0 +1,350 @@
+C:\Users\ASUS\source\repos\WebKimCuong\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\WebKimCuong\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\WebKimCuong\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\WebKimCuong\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\WebKimCuong\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\WebKimCuong\Payment.Persistence\bin\Debug\net6.0\Payment.Persistence.deps.json
+C:\Users\ASUS\source\repos\WebKimCuong\Payment.Persistence\bin\Debug\net6.0\Payment.Persistence.dll
+C:\Users\ASUS\source\repos\WebKimCuong\Payment.Persistence\bin\Debug\net6.0\Payment.Persistence.pdb
+C:\Users\ASUS\source\repos\WebKimCuong\Payment.Persistence\bin\Debug\net6.0\Payment.Applications.dll
+C:\Users\ASUS\source\repos\WebKimCuong\Payment.Persistence\bin\Debug\net6.0\Payment.Service.dll
+C:\Users\ASUS\source\repos\WebKimCuong\Payment.Persistence\bin\Debug\net6.0\Payment.Ultils.dll
+C:\Users\ASUS\source\repos\WebKimCuong\Payment.Persistence\bin\Debug\net6.0\Payment.Applications.pdb
+C:\Users\ASUS\source\repos\WebKimCuong\Payment.Persistence\bin\Debug\net6.0\Payment.Service.pdb
+C:\Users\ASUS\source\repos\WebKimCuong\Payment.Persistence\bin\Debug\net6.0\Payment.Ultils.pdb
+C:\Users\ASUS\source\repos\WebKimCuong\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.csproj.CopyComplete
+C:\Users\ASUS\source\repos\WebKimCuong\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.dll
+C:\Users\ASUS\source\repos\WebKimCuong\Payment.Persistence\obj\Debug\net6.0\refint\Payment.Persistence.dll
+C:\Users\ASUS\source\repos\WebKimCuong\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.pdb
+C:\Users\ASUS\source\repos\WebKimCuong\Payment.Persistence\obj\Debug\net6.0\ref\Payment.Persistence.dll
+D:\dev\FreeLane\WebKimCuong\WebKimCuong\Payment.Persistence\bin\Debug\net6.0\Payment.Persistence.deps.json
+D:\dev\FreeLane\WebKimCuong\WebKimCuong\Payment.Persistence\bin\Debug\net6.0\Payment.Persistence.dll
+D:\dev\FreeLane\WebKimCuong\WebKimCuong\Payment.Persistence\bin\Debug\net6.0\Payment.Persistence.pdb
+D:\dev\FreeLane\WebKimCuong\WebKimCuong\Payment.Persistence\bin\Debug\net6.0\Payment.Applications.dll
+D:\dev\FreeLane\WebKimCuong\WebKimCuong\Payment.Persistence\bin\Debug\net6.0\Payment.Service.dll
+D:\dev\FreeLane\WebKimCuong\WebKimCuong\Payment.Persistence\bin\Debug\net6.0\Payment.Ultils.dll
+D:\dev\FreeLane\WebKimCuong\WebKimCuong\Payment.Persistence\bin\Debug\net6.0\Payment.Applications.pdb
+D:\dev\FreeLane\WebKimCuong\WebKimCuong\Payment.Persistence\bin\Debug\net6.0\Payment.Service.pdb
+D:\dev\FreeLane\WebKimCuong\WebKimCuong\Payment.Persistence\bin\Debug\net6.0\Payment.Ultils.pdb
+D:\dev\FreeLane\WebKimCuong\WebKimCuong\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.csproj.AssemblyReference.cache
+D:\dev\FreeLane\WebKimCuong\WebKimCuong\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\FreeLane\WebKimCuong\WebKimCuong\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.AssemblyInfoInputs.cache
+D:\dev\FreeLane\WebKimCuong\WebKimCuong\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.AssemblyInfo.cs
+D:\dev\FreeLane\WebKimCuong\WebKimCuong\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.csproj.CoreCompileInputs.cache
+D:\dev\FreeLane\WebKimCuong\WebKimCuong\Payment.Persistence\obj\Debug\net6.0\Payment..B7F43A29.Up2Date
+D:\dev\FreeLane\WebKimCuong\WebKimCuong\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.dll
+D:\dev\FreeLane\WebKimCuong\WebKimCuong\Payment.Persistence\obj\Debug\net6.0\refint\Payment.Persistence.dll
+D:\dev\FreeLane\WebKimCuong\WebKimCuong\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.pdb
+D:\dev\FreeLane\WebKimCuong\WebKimCuong\Payment.Persistence\obj\Debug\net6.0\ref\Payment.Persistence.dll
+D:\dev\FreeLane\WebKimCuong\WebKimCuong\WebKimCuong\Payment.Persistence\bin\Debug\net6.0\Payment.Persistence.deps.json
+D:\dev\FreeLane\WebKimCuong\WebKimCuong\WebKimCuong\Payment.Persistence\bin\Debug\net6.0\Payment.Persistence.dll
+D:\dev\FreeLane\WebKimCuong\WebKimCuong\WebKimCuong\Payment.Persistence\bin\Debug\net6.0\Payment.Persistence.pdb
+D:\dev\FreeLane\WebKimCuong\WebKimCuong\WebKimCuong\Payment.Persistence\bin\Debug\net6.0\Payment.Applications.dll
+D:\dev\FreeLane\WebKimCuong\WebKimCuong\WebKimCuong\Payment.Persistence\bin\Debug\net6.0\Payment.Service.dll
+D:\dev\FreeLane\WebKimCuong\WebKimCuong\WebKimCuong\Payment.Persistence\bin\Debug\net6.0\Payment.Ultils.dll
+D:\dev\FreeLane\WebKimCuong\WebKimCuong\WebKimCuong\Payment.Persistence\bin\Debug\net6.0\Payment.Applications.pdb
+D:\dev\FreeLane\WebKimCuong\WebKimCuong\WebKimCuong\Payment.Persistence\bin\Debug\net6.0\Payment.Service.pdb
+D:\dev\FreeLane\WebKimCuong\WebKimCuong\WebKimCuong\Payment.Persistence\bin\Debug\net6.0\Payment.Ultils.pdb
+D:\dev\FreeLane\WebKimCuong\WebKimCuong\WebKimCuong\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.csproj.AssemblyReference.cache
+D:\dev\FreeLane\WebKimCuong\WebKimCuong\WebKimCuong\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\FreeLane\WebKimCuong\WebKimCuong\WebKimCuong\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.AssemblyInfoInputs.cache
+D:\dev\FreeLane\WebKimCuong\WebKimCuong\WebKimCuong\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.AssemblyInfo.cs
+D:\dev\FreeLane\WebKimCuong\WebKimCuong\WebKimCuong\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.csproj.CoreCompileInputs.cache
+D:\dev\FreeLane\WebKimCuong\WebKimCuong\WebKimCuong\Payment.Persistence\obj\Debug\net6.0\Payment..B7F43A29.Up2Date
+D:\dev\FreeLane\WebKimCuong\WebKimCuong\WebKimCuong\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.dll
+D:\dev\FreeLane\WebKimCuong\WebKimCuong\WebKimCuong\Payment.Persistence\obj\Debug\net6.0\refint\Payment.Persistence.dll
+D:\dev\FreeLane\WebKimCuong\WebKimCuong\WebKimCuong\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.pdb
+D:\dev\FreeLane\WebKimCuong\WebKimCuong\WebKimCuong\Payment.Persistence\obj\Debug\net6.0\ref\Payment.Persistence.dll
+C:\Users\Dang Quyet\Documents\Zalo Received Files\BeWebKimCuong\WebKimCuong\WebKimCuong\WebKimCuong\Payment.Persistence\bin\Debug\net6.0\Payment.Persistence.deps.json
+C:\Users\Dang Quyet\Documents\Zalo Received Files\BeWebKimCuong\WebKimCuong\WebKimCuong\WebKimCuong\Payment.Persistence\bin\Debug\net6.0\Payment.Persistence.dll
+C:\Users\Dang Quyet\Documents\Zalo Received Files\BeWebKimCuong\WebKimCuong\WebKimCuong\WebKimCuong\Payment.Persistence\bin\Debug\net6.0\Payment.Persistence.pdb
+C:\Users\Dang Quyet\Documents\Zalo Received Files\BeWebKimCuong\WebKimCuong\WebKimCuong\WebKimCuong\Payment.Persistence\bin\Debug\net6.0\Payment.Applications.dll
+C:\Users\Dang Quyet\Documents\Zalo Received Files\BeWebKimCuong\WebKimCuong\WebKimCuong\WebKimCuong\Payment.Persistence\bin\Debug\net6.0\Payment.Service.dll
+C:\Users\Dang Quyet\Documents\Zalo Received Files\BeWebKimCuong\WebKimCuong\WebKimCuong\WebKimCuong\Payment.Persistence\bin\Debug\net6.0\Payment.Ultils.dll
+C:\Users\Dang Quyet\Documents\Zalo Received Files\BeWebKimCuong\WebKimCuong\WebKimCuong\WebKimCuong\Payment.Persistence\bin\Debug\net6.0\Payment.Applications.pdb
+C:\Users\Dang Quyet\Documents\Zalo Received Files\BeWebKimCuong\WebKimCuong\WebKimCuong\WebKimCuong\Payment.Persistence\bin\Debug\net6.0\Payment.Service.pdb
+C:\Users\Dang Quyet\Documents\Zalo Received Files\BeWebKimCuong\WebKimCuong\WebKimCuong\WebKimCuong\Payment.Persistence\bin\Debug\net6.0\Payment.Ultils.pdb
+C:\Users\Dang Quyet\Documents\Zalo Received Files\BeWebKimCuong\WebKimCuong\WebKimCuong\WebKimCuong\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.csproj.AssemblyReference.cache
+C:\Users\Dang Quyet\Documents\Zalo Received Files\BeWebKimCuong\WebKimCuong\WebKimCuong\WebKimCuong\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dang Quyet\Documents\Zalo Received Files\BeWebKimCuong\WebKimCuong\WebKimCuong\WebKimCuong\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.AssemblyInfoInputs.cache
+C:\Users\Dang Quyet\Documents\Zalo Received Files\BeWebKimCuong\WebKimCuong\WebKimCuong\WebKimCuong\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.AssemblyInfo.cs
+C:\Users\Dang Quyet\Documents\Zalo Received Files\BeWebKimCuong\WebKimCuong\WebKimCuong\WebKimCuong\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Dang Quyet\Documents\Zalo Received Files\BeWebKimCuong\WebKimCuong\WebKimCuong\WebKimCuong\Payment.Persistence\obj\Debug\net6.0\Payment..B7F43A29.Up2Date
+C:\Users\Dang Quyet\Documents\Zalo Received Files\BeWebKimCuong\WebKimCuong\WebKimCuong\WebKimCuong\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.dll
+C:\Users\Dang Quyet\Documents\Zalo Received Files\BeWebKimCuong\WebKimCuong\WebKimCuong\WebKimCuong\Payment.Persistence\obj\Debug\net6.0\refint\Payment.Persistence.dll
+C:\Users\Dang Quyet\Documents\Zalo Received Files\BeWebKimCuong\WebKimCuong\WebKimCuong\WebKimCuong\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.pdb
+C:\Users\Dang Quyet\Documents\Zalo Received Files\BeWebKimCuong\WebKimCuong\WebKimCuong\WebKimCuong\Payment.Persistence\obj\Debug\net6.0\ref\Payment.Persistence.dll
+C:\Users\ASUS\OneDrive\Desktop\GiaoDienVueJs\DoAnCuaKhach\ShopKimCuong\BeNew\WebKimCuong\Payment.Persistence\bin\Debug\net6.0\Payment.Persistence.deps.json
+C:\Users\ASUS\OneDrive\Desktop\GiaoDienVueJs\DoAnCuaKhach\ShopKimCuong\BeNew\WebKimCuong\Payment.Persistence\bin\Debug\net6.0\Payment.Persistence.dll
+C:\Users\ASUS\OneDrive\Desktop\GiaoDienVueJs\DoAnCuaKhach\ShopKimCuong\BeNew\WebKimCuong\Payment.Persistence\bin\Debug\net6.0\Payment.Persistence.pdb
+C:\Users\ASUS\OneDrive\Desktop\GiaoDienVueJs\DoAnCuaKhach\ShopKimCuong\BeNew\WebKimCuong\Payment.Persistence\bin\Debug\net6.0\Payment.Applications.dll
+C:\Users\ASUS\OneDrive\Desktop\GiaoDienVueJs\DoAnCuaKhach\ShopKimCuong\BeNew\WebKimCuong\Payment.Persistence\bin\Debug\net6.0\Payment.Service.dll
+C:\Users\ASUS\OneDrive\Desktop\GiaoDienVueJs\DoAnCuaKhach\ShopKimCuong\BeNew\WebKimCuong\Payment.Persistence\bin\Debug\net6.0\Payment.Ultils.dll
+C:\Users\ASUS\OneDrive\Desktop\GiaoDienVueJs\DoAnCuaKhach\ShopKimCuong\BeNew\WebKimCuong\Payment.Persistence\bin\Debug\net6.0\Payment.Applications.pdb
+C:\Users\ASUS\OneDrive\Desktop\GiaoDienVueJs\DoAnCuaKhach\ShopKimCuong\BeNew\WebKimCuong\Payment.Persistence\bin\Debug\net6.0\Payment.Service.pdb
+C:\Users\ASUS\OneDrive\Desktop\GiaoDienVueJs\DoAnCuaKhach\ShopKimCuong\BeNew\WebKimCuong\Payment.Persistence\bin\Debug\net6.0\Payment.Ultils.pdb
+C:\Users\ASUS\OneDrive\Desktop\GiaoDienVueJs\DoAnCuaKhach\ShopKimCuong\BeNew\WebKimCuong\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Desktop\GiaoDienVueJs\DoAnCuaKhach\ShopKimCuong\BeNew\WebKimCuong\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\GiaoDienVueJs\DoAnCuaKhach\ShopKimCuong\BeNew\WebKimCuong\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\GiaoDienVueJs\DoAnCuaKhach\ShopKimCuong\BeNew\WebKimCuong\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\GiaoDienVueJs\DoAnCuaKhach\ShopKimCuong\BeNew\WebKimCuong\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\GiaoDienVueJs\DoAnCuaKhach\ShopKimCuong\BeNew\WebKimCuong\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.csproj.CopyComplete
+C:\Users\ASUS\OneDrive\Desktop\GiaoDienVueJs\DoAnCuaKhach\ShopKimCuong\BeNew\WebKimCuong\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.dll
+C:\Users\ASUS\OneDrive\Desktop\GiaoDienVueJs\DoAnCuaKhach\ShopKimCuong\BeNew\WebKimCuong\Payment.Persistence\obj\Debug\net6.0\refint\Payment.Persistence.dll
+C:\Users\ASUS\OneDrive\Desktop\GiaoDienVueJs\DoAnCuaKhach\ShopKimCuong\BeNew\WebKimCuong\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.pdb
+C:\Users\ASUS\OneDrive\Desktop\GiaoDienVueJs\DoAnCuaKhach\ShopKimCuong\BeNew\WebKimCuong\Payment.Persistence\obj\Debug\net6.0\ref\Payment.Persistence.dll
+D:\dev\FreeLane\WebKimCuong\Payment.Persistence\bin\Debug\net6.0\Payment.Persistence.deps.json
+D:\dev\FreeLane\WebKimCuong\Payment.Persistence\bin\Debug\net6.0\Payment.Persistence.dll
+D:\dev\FreeLane\WebKimCuong\Payment.Persistence\bin\Debug\net6.0\Payment.Persistence.pdb
+D:\dev\FreeLane\WebKimCuong\Payment.Persistence\bin\Debug\net6.0\Payment.Applications.dll
+D:\dev\FreeLane\WebKimCuong\Payment.Persistence\bin\Debug\net6.0\Payment.Service.dll
+D:\dev\FreeLane\WebKimCuong\Payment.Persistence\bin\Debug\net6.0\Payment.Ultils.dll
+D:\dev\FreeLane\WebKimCuong\Payment.Persistence\bin\Debug\net6.0\Payment.Applications.pdb
+D:\dev\FreeLane\WebKimCuong\Payment.Persistence\bin\Debug\net6.0\Payment.Service.pdb
+D:\dev\FreeLane\WebKimCuong\Payment.Persistence\bin\Debug\net6.0\Payment.Ultils.pdb
+D:\dev\FreeLane\WebKimCuong\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.csproj.AssemblyReference.cache
+D:\dev\FreeLane\WebKimCuong\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\FreeLane\WebKimCuong\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.AssemblyInfoInputs.cache
+D:\dev\FreeLane\WebKimCuong\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.AssemblyInfo.cs
+D:\dev\FreeLane\WebKimCuong\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.csproj.CoreCompileInputs.cache
+D:\dev\FreeLane\WebKimCuong\Payment.Persistence\obj\Debug\net6.0\Payment..B7F43A29.Up2Date
+D:\dev\FreeLane\WebKimCuong\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.dll
+D:\dev\FreeLane\WebKimCuong\Payment.Persistence\obj\Debug\net6.0\refint\Payment.Persistence.dll
+D:\dev\FreeLane\WebKimCuong\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.pdb
+D:\dev\FreeLane\WebKimCuong\Payment.Persistence\obj\Debug\net6.0\ref\Payment.Persistence.dll
+C:\Users\ASUS\OneDrive\Desktop\GiaoDienVueJs\DoAnCuaKhach\ShopKimCuong\Be257\WebKimCuong\Payment.Persistence\bin\Debug\net6.0\Payment.Persistence.deps.json
+C:\Users\ASUS\OneDrive\Desktop\GiaoDienVueJs\DoAnCuaKhach\ShopKimCuong\Be257\WebKimCuong\Payment.Persistence\bin\Debug\net6.0\Payment.Persistence.dll
+C:\Users\ASUS\OneDrive\Desktop\GiaoDienVueJs\DoAnCuaKhach\ShopKimCuong\Be257\WebKimCuong\Payment.Persistence\bin\Debug\net6.0\Payment.Persistence.pdb
+C:\Users\ASUS\OneDrive\Desktop\GiaoDienVueJs\DoAnCuaKhach\ShopKimCuong\Be257\WebKimCuong\Payment.Persistence\bin\Debug\net6.0\Payment.Applications.dll
+C:\Users\ASUS\OneDrive\Desktop\GiaoDienVueJs\DoAnCuaKhach\ShopKimCuong\Be257\WebKimCuong\Payment.Persistence\bin\Debug\net6.0\Payment.Service.dll
+C:\Users\ASUS\OneDrive\Desktop\GiaoDienVueJs\DoAnCuaKhach\ShopKimCuong\Be257\WebKimCuong\Payment.Persistence\bin\Debug\net6.0\Payment.Ultils.dll
+C:\Users\ASUS\OneDrive\Desktop\GiaoDienVueJs\DoAnCuaKhach\ShopKimCuong\Be257\WebKimCuong\Payment.Persistence\bin\Debug\net6.0\Payment.Applications.pdb
+C:\Users\ASUS\OneDrive\Desktop\GiaoDienVueJs\DoAnCuaKhach\ShopKimCuong\Be257\WebKimCuong\Payment.Persistence\bin\Debug\net6.0\Payment.Service.pdb
+C:\Users\ASUS\OneDrive\Desktop\GiaoDienVueJs\DoAnCuaKhach\ShopKimCuong\Be257\WebKimCuong\Payment.Persistence\bin\Debug\net6.0\Payment.Ultils.pdb
+C:\Users\ASUS\OneDrive\Desktop\GiaoDienVueJs\DoAnCuaKhach\ShopKimCuong\Be257\WebKimCuong\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Desktop\GiaoDienVueJs\DoAnCuaKhach\ShopKimCuong\Be257\WebKimCuong\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\GiaoDienVueJs\DoAnCuaKhach\ShopKimCuong\Be257\WebKimCuong\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\GiaoDienVueJs\DoAnCuaKhach\ShopKimCuong\Be257\WebKimCuong\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\GiaoDienVueJs\DoAnCuaKhach\ShopKimCuong\Be257\WebKimCuong\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\GiaoDienVueJs\DoAnCuaKhach\ShopKimCuong\Be257\WebKimCuong\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.csproj.CopyComplete
+C:\Users\ASUS\OneDrive\Desktop\GiaoDienVueJs\DoAnCuaKhach\ShopKimCuong\Be257\WebKimCuong\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.dll
+C:\Users\ASUS\OneDrive\Desktop\GiaoDienVueJs\DoAnCuaKhach\ShopKimCuong\Be257\WebKimCuong\Payment.Persistence\obj\Debug\net6.0\refint\Payment.Persistence.dll
+C:\Users\ASUS\OneDrive\Desktop\GiaoDienVueJs\DoAnCuaKhach\ShopKimCuong\Be257\WebKimCuong\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.pdb
+C:\Users\ASUS\OneDrive\Desktop\GiaoDienVueJs\DoAnCuaKhach\ShopKimCuong\Be257\WebKimCuong\Payment.Persistence\obj\Debug\net6.0\ref\Payment.Persistence.dll
+D:\dev\FreeLane\WebKimCuongB\WebKimCuong\Payment.Persistence\bin\Debug\net6.0\Payment.Persistence.deps.json
+D:\dev\FreeLane\WebKimCuongB\WebKimCuong\Payment.Persistence\bin\Debug\net6.0\Payment.Persistence.dll
+D:\dev\FreeLane\WebKimCuongB\WebKimCuong\Payment.Persistence\bin\Debug\net6.0\Payment.Persistence.pdb
+D:\dev\FreeLane\WebKimCuongB\WebKimCuong\Payment.Persistence\bin\Debug\net6.0\Payment.Applications.dll
+D:\dev\FreeLane\WebKimCuongB\WebKimCuong\Payment.Persistence\bin\Debug\net6.0\Payment.Service.dll
+D:\dev\FreeLane\WebKimCuongB\WebKimCuong\Payment.Persistence\bin\Debug\net6.0\Payment.Ultils.dll
+D:\dev\FreeLane\WebKimCuongB\WebKimCuong\Payment.Persistence\bin\Debug\net6.0\Payment.Applications.pdb
+D:\dev\FreeLane\WebKimCuongB\WebKimCuong\Payment.Persistence\bin\Debug\net6.0\Payment.Service.pdb
+D:\dev\FreeLane\WebKimCuongB\WebKimCuong\Payment.Persistence\bin\Debug\net6.0\Payment.Ultils.pdb
+D:\dev\FreeLane\WebKimCuongB\WebKimCuong\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.csproj.AssemblyReference.cache
+D:\dev\FreeLane\WebKimCuongB\WebKimCuong\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\FreeLane\WebKimCuongB\WebKimCuong\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.AssemblyInfoInputs.cache
+D:\dev\FreeLane\WebKimCuongB\WebKimCuong\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.AssemblyInfo.cs
+D:\dev\FreeLane\WebKimCuongB\WebKimCuong\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.csproj.CoreCompileInputs.cache
+D:\dev\FreeLane\WebKimCuongB\WebKimCuong\Payment.Persistence\obj\Debug\net6.0\Payment..B7F43A29.Up2Date
+D:\dev\FreeLane\WebKimCuongB\WebKimCuong\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.dll
+D:\dev\FreeLane\WebKimCuongB\WebKimCuong\Payment.Persistence\obj\Debug\net6.0\refint\Payment.Persistence.dll
+D:\dev\FreeLane\WebKimCuongB\WebKimCuong\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.pdb
+D:\dev\FreeLane\WebKimCuongB\WebKimCuong\Payment.Persistence\obj\Debug\net6.0\ref\Payment.Persistence.dll
+D:\PRJ3-main\WebKimCuongB\WebKimCuong\Payment.Persistence\bin\Debug\net6.0\Payment.Persistence.deps.json
+D:\PRJ3-main\WebKimCuongB\WebKimCuong\Payment.Persistence\bin\Debug\net6.0\Payment.Persistence.dll
+D:\PRJ3-main\WebKimCuongB\WebKimCuong\Payment.Persistence\bin\Debug\net6.0\Payment.Persistence.pdb
+D:\PRJ3-main\WebKimCuongB\WebKimCuong\Payment.Persistence\bin\Debug\net6.0\Payment.Applications.dll
+D:\PRJ3-main\WebKimCuongB\WebKimCuong\Payment.Persistence\bin\Debug\net6.0\Payment.Service.dll
+D:\PRJ3-main\WebKimCuongB\WebKimCuong\Payment.Persistence\bin\Debug\net6.0\Payment.Ultils.dll
+D:\PRJ3-main\WebKimCuongB\WebKimCuong\Payment.Persistence\bin\Debug\net6.0\Payment.Applications.pdb
+D:\PRJ3-main\WebKimCuongB\WebKimCuong\Payment.Persistence\bin\Debug\net6.0\Payment.Service.pdb
+D:\PRJ3-main\WebKimCuongB\WebKimCuong\Payment.Persistence\bin\Debug\net6.0\Payment.Ultils.pdb
+D:\PRJ3-main\WebKimCuongB\WebKimCuong\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.csproj.AssemblyReference.cache
+D:\PRJ3-main\WebKimCuongB\WebKimCuong\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRJ3-main\WebKimCuongB\WebKimCuong\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.AssemblyInfoInputs.cache
+D:\PRJ3-main\WebKimCuongB\WebKimCuong\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.AssemblyInfo.cs
+D:\PRJ3-main\WebKimCuongB\WebKimCuong\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.csproj.CoreCompileInputs.cache
+D:\PRJ3-main\WebKimCuongB\WebKimCuong\Payment.Persistence\obj\Debug\net6.0\Payment..B7F43A29.Up2Date
+D:\PRJ3-main\WebKimCuongB\WebKimCuong\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.dll
+D:\PRJ3-main\WebKimCuongB\WebKimCuong\Payment.Persistence\obj\Debug\net6.0\refint\Payment.Persistence.dll
+D:\PRJ3-main\WebKimCuongB\WebKimCuong\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.pdb
+D:\PRJ3-main\WebKimCuongB\WebKimCuong\Payment.Persistence\obj\Debug\net6.0\ref\Payment.Persistence.dll
+D:\ProjectSEM3\be_projectSEM3\Payment.Persistence\bin\Debug\net6.0\Payment.Persistence.deps.json
+D:\ProjectSEM3\be_projectSEM3\Payment.Persistence\bin\Debug\net6.0\Payment.Persistence.dll
+D:\ProjectSEM3\be_projectSEM3\Payment.Persistence\bin\Debug\net6.0\Payment.Persistence.pdb
+D:\ProjectSEM3\be_projectSEM3\Payment.Persistence\bin\Debug\net6.0\Payment.Applications.dll
+D:\ProjectSEM3\be_projectSEM3\Payment.Persistence\bin\Debug\net6.0\Payment.Service.dll
+D:\ProjectSEM3\be_projectSEM3\Payment.Persistence\bin\Debug\net6.0\Payment.Ultils.dll
+D:\ProjectSEM3\be_projectSEM3\Payment.Persistence\bin\Debug\net6.0\Payment.Applications.pdb
+D:\ProjectSEM3\be_projectSEM3\Payment.Persistence\bin\Debug\net6.0\Payment.Service.pdb
+D:\ProjectSEM3\be_projectSEM3\Payment.Persistence\bin\Debug\net6.0\Payment.Ultils.pdb
+D:\ProjectSEM3\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.csproj.AssemblyReference.cache
+D:\ProjectSEM3\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectSEM3\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.AssemblyInfoInputs.cache
+D:\ProjectSEM3\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.AssemblyInfo.cs
+D:\ProjectSEM3\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.csproj.CoreCompileInputs.cache
+D:\ProjectSEM3\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.sourcelink.json
+D:\ProjectSEM3\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\Payment..B7F43A29.Up2Date
+D:\ProjectSEM3\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.dll
+D:\ProjectSEM3\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\refint\Payment.Persistence.dll
+D:\ProjectSEM3\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.pdb
+D:\ProjectSEM3\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\ref\Payment.Persistence.dll
+C:\Users\ASUS\OneDrive\Desktop\GiaoDienVueJs\DoAnCuaKhach\ShopKimCuong\CodeNew\Be\be_projectSEM3\Payment.Persistence\bin\Debug\net6.0\Payment.Persistence.deps.json
+C:\Users\ASUS\OneDrive\Desktop\GiaoDienVueJs\DoAnCuaKhach\ShopKimCuong\CodeNew\Be\be_projectSEM3\Payment.Persistence\bin\Debug\net6.0\Payment.Persistence.dll
+C:\Users\ASUS\OneDrive\Desktop\GiaoDienVueJs\DoAnCuaKhach\ShopKimCuong\CodeNew\Be\be_projectSEM3\Payment.Persistence\bin\Debug\net6.0\Payment.Persistence.pdb
+C:\Users\ASUS\OneDrive\Desktop\GiaoDienVueJs\DoAnCuaKhach\ShopKimCuong\CodeNew\Be\be_projectSEM3\Payment.Persistence\bin\Debug\net6.0\Payment.Applications.dll
+C:\Users\ASUS\OneDrive\Desktop\GiaoDienVueJs\DoAnCuaKhach\ShopKimCuong\CodeNew\Be\be_projectSEM3\Payment.Persistence\bin\Debug\net6.0\Payment.Service.dll
+C:\Users\ASUS\OneDrive\Desktop\GiaoDienVueJs\DoAnCuaKhach\ShopKimCuong\CodeNew\Be\be_projectSEM3\Payment.Persistence\bin\Debug\net6.0\Payment.Ultils.dll
+C:\Users\ASUS\OneDrive\Desktop\GiaoDienVueJs\DoAnCuaKhach\ShopKimCuong\CodeNew\Be\be_projectSEM3\Payment.Persistence\bin\Debug\net6.0\Payment.Applications.pdb
+C:\Users\ASUS\OneDrive\Desktop\GiaoDienVueJs\DoAnCuaKhach\ShopKimCuong\CodeNew\Be\be_projectSEM3\Payment.Persistence\bin\Debug\net6.0\Payment.Service.pdb
+C:\Users\ASUS\OneDrive\Desktop\GiaoDienVueJs\DoAnCuaKhach\ShopKimCuong\CodeNew\Be\be_projectSEM3\Payment.Persistence\bin\Debug\net6.0\Payment.Ultils.pdb
+C:\Users\ASUS\OneDrive\Desktop\GiaoDienVueJs\DoAnCuaKhach\ShopKimCuong\CodeNew\Be\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Desktop\GiaoDienVueJs\DoAnCuaKhach\ShopKimCuong\CodeNew\Be\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\GiaoDienVueJs\DoAnCuaKhach\ShopKimCuong\CodeNew\Be\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\GiaoDienVueJs\DoAnCuaKhach\ShopKimCuong\CodeNew\Be\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\GiaoDienVueJs\DoAnCuaKhach\ShopKimCuong\CodeNew\Be\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\GiaoDienVueJs\DoAnCuaKhach\ShopKimCuong\CodeNew\Be\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.sourcelink.json
+C:\Users\ASUS\OneDrive\Desktop\GiaoDienVueJs\DoAnCuaKhach\ShopKimCuong\CodeNew\Be\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.csproj.CopyComplete
+C:\Users\ASUS\OneDrive\Desktop\GiaoDienVueJs\DoAnCuaKhach\ShopKimCuong\CodeNew\Be\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.dll
+C:\Users\ASUS\OneDrive\Desktop\GiaoDienVueJs\DoAnCuaKhach\ShopKimCuong\CodeNew\Be\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\refint\Payment.Persistence.dll
+C:\Users\ASUS\OneDrive\Desktop\GiaoDienVueJs\DoAnCuaKhach\ShopKimCuong\CodeNew\Be\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.pdb
+C:\Users\ASUS\OneDrive\Desktop\GiaoDienVueJs\DoAnCuaKhach\ShopKimCuong\CodeNew\Be\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\ref\Payment.Persistence.dll
+D:\dev\FreeLane\be_projectSEM3\be_projectSEM3\Payment.Persistence\bin\Debug\net6.0\Payment.Persistence.deps.json
+D:\dev\FreeLane\be_projectSEM3\be_projectSEM3\Payment.Persistence\bin\Debug\net6.0\Payment.Persistence.dll
+D:\dev\FreeLane\be_projectSEM3\be_projectSEM3\Payment.Persistence\bin\Debug\net6.0\Payment.Persistence.pdb
+D:\dev\FreeLane\be_projectSEM3\be_projectSEM3\Payment.Persistence\bin\Debug\net6.0\Payment.Applications.dll
+D:\dev\FreeLane\be_projectSEM3\be_projectSEM3\Payment.Persistence\bin\Debug\net6.0\Payment.Service.dll
+D:\dev\FreeLane\be_projectSEM3\be_projectSEM3\Payment.Persistence\bin\Debug\net6.0\Payment.Ultils.dll
+D:\dev\FreeLane\be_projectSEM3\be_projectSEM3\Payment.Persistence\bin\Debug\net6.0\Payment.Applications.pdb
+D:\dev\FreeLane\be_projectSEM3\be_projectSEM3\Payment.Persistence\bin\Debug\net6.0\Payment.Service.pdb
+D:\dev\FreeLane\be_projectSEM3\be_projectSEM3\Payment.Persistence\bin\Debug\net6.0\Payment.Ultils.pdb
+D:\dev\FreeLane\be_projectSEM3\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.csproj.AssemblyReference.cache
+D:\dev\FreeLane\be_projectSEM3\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\FreeLane\be_projectSEM3\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.AssemblyInfoInputs.cache
+D:\dev\FreeLane\be_projectSEM3\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.AssemblyInfo.cs
+D:\dev\FreeLane\be_projectSEM3\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.csproj.CoreCompileInputs.cache
+D:\dev\FreeLane\be_projectSEM3\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.sourcelink.json
+D:\dev\FreeLane\be_projectSEM3\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\Payment..B7F43A29.Up2Date
+D:\dev\FreeLane\be_projectSEM3\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.dll
+D:\dev\FreeLane\be_projectSEM3\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\refint\Payment.Persistence.dll
+D:\dev\FreeLane\be_projectSEM3\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.pdb
+D:\dev\FreeLane\be_projectSEM3\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\ref\Payment.Persistence.dll
+D:\Project YGJ Team 2 Sem 3 FPT Aptech\be_projectSEM3\Payment.Persistence\bin\Debug\net6.0\Payment.Persistence.deps.json
+D:\Project YGJ Team 2 Sem 3 FPT Aptech\be_projectSEM3\Payment.Persistence\bin\Debug\net6.0\Payment.Persistence.dll
+D:\Project YGJ Team 2 Sem 3 FPT Aptech\be_projectSEM3\Payment.Persistence\bin\Debug\net6.0\Payment.Persistence.pdb
+D:\Project YGJ Team 2 Sem 3 FPT Aptech\be_projectSEM3\Payment.Persistence\bin\Debug\net6.0\Payment.Applications.dll
+D:\Project YGJ Team 2 Sem 3 FPT Aptech\be_projectSEM3\Payment.Persistence\bin\Debug\net6.0\Payment.Service.dll
+D:\Project YGJ Team 2 Sem 3 FPT Aptech\be_projectSEM3\Payment.Persistence\bin\Debug\net6.0\Payment.Ultils.dll
+D:\Project YGJ Team 2 Sem 3 FPT Aptech\be_projectSEM3\Payment.Persistence\bin\Debug\net6.0\Payment.Applications.pdb
+D:\Project YGJ Team 2 Sem 3 FPT Aptech\be_projectSEM3\Payment.Persistence\bin\Debug\net6.0\Payment.Service.pdb
+D:\Project YGJ Team 2 Sem 3 FPT Aptech\be_projectSEM3\Payment.Persistence\bin\Debug\net6.0\Payment.Ultils.pdb
+D:\Project YGJ Team 2 Sem 3 FPT Aptech\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.csproj.AssemblyReference.cache
+D:\Project YGJ Team 2 Sem 3 FPT Aptech\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project YGJ Team 2 Sem 3 FPT Aptech\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.AssemblyInfoInputs.cache
+D:\Project YGJ Team 2 Sem 3 FPT Aptech\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.AssemblyInfo.cs
+D:\Project YGJ Team 2 Sem 3 FPT Aptech\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.csproj.CoreCompileInputs.cache
+D:\Project YGJ Team 2 Sem 3 FPT Aptech\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.sourcelink.json
+D:\Project YGJ Team 2 Sem 3 FPT Aptech\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\Payment..B7F43A29.Up2Date
+D:\Project YGJ Team 2 Sem 3 FPT Aptech\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.dll
+D:\Project YGJ Team 2 Sem 3 FPT Aptech\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\refint\Payment.Persistence.dll
+D:\Project YGJ Team 2 Sem 3 FPT Aptech\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.pdb
+D:\Project YGJ Team 2 Sem 3 FPT Aptech\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\ref\Payment.Persistence.dll
+D:\ProjectYGJTeam2Sem3FPTAptech\be_projectSEM3\Payment.Persistence\bin\Debug\net6.0\Payment.Persistence.deps.json
+D:\ProjectYGJTeam2Sem3FPTAptech\be_projectSEM3\Payment.Persistence\bin\Debug\net6.0\Payment.Persistence.dll
+D:\ProjectYGJTeam2Sem3FPTAptech\be_projectSEM3\Payment.Persistence\bin\Debug\net6.0\Payment.Persistence.pdb
+D:\ProjectYGJTeam2Sem3FPTAptech\be_projectSEM3\Payment.Persistence\bin\Debug\net6.0\Payment.Applications.dll
+D:\ProjectYGJTeam2Sem3FPTAptech\be_projectSEM3\Payment.Persistence\bin\Debug\net6.0\Payment.Service.dll
+D:\ProjectYGJTeam2Sem3FPTAptech\be_projectSEM3\Payment.Persistence\bin\Debug\net6.0\Payment.Ultils.dll
+D:\ProjectYGJTeam2Sem3FPTAptech\be_projectSEM3\Payment.Persistence\bin\Debug\net6.0\Payment.Applications.pdb
+D:\ProjectYGJTeam2Sem3FPTAptech\be_projectSEM3\Payment.Persistence\bin\Debug\net6.0\Payment.Service.pdb
+D:\ProjectYGJTeam2Sem3FPTAptech\be_projectSEM3\Payment.Persistence\bin\Debug\net6.0\Payment.Ultils.pdb
+D:\ProjectYGJTeam2Sem3FPTAptech\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.csproj.AssemblyReference.cache
+D:\ProjectYGJTeam2Sem3FPTAptech\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectYGJTeam2Sem3FPTAptech\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.AssemblyInfoInputs.cache
+D:\ProjectYGJTeam2Sem3FPTAptech\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.AssemblyInfo.cs
+D:\ProjectYGJTeam2Sem3FPTAptech\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.csproj.CoreCompileInputs.cache
+D:\ProjectYGJTeam2Sem3FPTAptech\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.sourcelink.json
+D:\ProjectYGJTeam2Sem3FPTAptech\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\Payment..B7F43A29.Up2Date
+D:\ProjectYGJTeam2Sem3FPTAptech\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.dll
+D:\ProjectYGJTeam2Sem3FPTAptech\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\refint\Payment.Persistence.dll
+D:\ProjectYGJTeam2Sem3FPTAptech\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.pdb
+D:\ProjectYGJTeam2Sem3FPTAptech\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\ref\Payment.Persistence.dll
+C:\Users\Admin\Desktop\YGJ_Team2_T2301E\be_projectSEM3\Payment.Persistence\bin\Debug\net6.0\Payment.Persistence.deps.json
+C:\Users\Admin\Desktop\YGJ_Team2_T2301E\be_projectSEM3\Payment.Persistence\bin\Debug\net6.0\Payment.Persistence.dll
+C:\Users\Admin\Desktop\YGJ_Team2_T2301E\be_projectSEM3\Payment.Persistence\bin\Debug\net6.0\Payment.Persistence.pdb
+C:\Users\Admin\Desktop\YGJ_Team2_T2301E\be_projectSEM3\Payment.Persistence\bin\Debug\net6.0\Payment.Applications.dll
+C:\Users\Admin\Desktop\YGJ_Team2_T2301E\be_projectSEM3\Payment.Persistence\bin\Debug\net6.0\Payment.Service.dll
+C:\Users\Admin\Desktop\YGJ_Team2_T2301E\be_projectSEM3\Payment.Persistence\bin\Debug\net6.0\Payment.Ultils.dll
+C:\Users\Admin\Desktop\YGJ_Team2_T2301E\be_projectSEM3\Payment.Persistence\bin\Debug\net6.0\Payment.Applications.pdb
+C:\Users\Admin\Desktop\YGJ_Team2_T2301E\be_projectSEM3\Payment.Persistence\bin\Debug\net6.0\Payment.Service.pdb
+C:\Users\Admin\Desktop\YGJ_Team2_T2301E\be_projectSEM3\Payment.Persistence\bin\Debug\net6.0\Payment.Ultils.pdb
+C:\Users\Admin\Desktop\YGJ_Team2_T2301E\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\YGJ_Team2_T2301E\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\YGJ_Team2_T2301E\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\YGJ_Team2_T2301E\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.AssemblyInfo.cs
+C:\Users\Admin\Desktop\YGJ_Team2_T2301E\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\YGJ_Team2_T2301E\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.sourcelink.json
+C:\Users\Admin\Desktop\YGJ_Team2_T2301E\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\Payment..B7F43A29.Up2Date
+C:\Users\Admin\Desktop\YGJ_Team2_T2301E\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.dll
+C:\Users\Admin\Desktop\YGJ_Team2_T2301E\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\refint\Payment.Persistence.dll
+C:\Users\Admin\Desktop\YGJ_Team2_T2301E\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.pdb
+C:\Users\Admin\Desktop\YGJ_Team2_T2301E\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\ref\Payment.Persistence.dll
+D:\SEM3 ApTech\YGJ_Team2_T2301E\be_projectSEM3\Payment.Persistence\bin\Debug\net6.0\Payment.Persistence.deps.json
+D:\SEM3 ApTech\YGJ_Team2_T2301E\be_projectSEM3\Payment.Persistence\bin\Debug\net6.0\Payment.Persistence.dll
+D:\SEM3 ApTech\YGJ_Team2_T2301E\be_projectSEM3\Payment.Persistence\bin\Debug\net6.0\Payment.Persistence.pdb
+D:\SEM3 ApTech\YGJ_Team2_T2301E\be_projectSEM3\Payment.Persistence\bin\Debug\net6.0\Payment.Applications.dll
+D:\SEM3 ApTech\YGJ_Team2_T2301E\be_projectSEM3\Payment.Persistence\bin\Debug\net6.0\Payment.Service.dll
+D:\SEM3 ApTech\YGJ_Team2_T2301E\be_projectSEM3\Payment.Persistence\bin\Debug\net6.0\Payment.Ultils.dll
+D:\SEM3 ApTech\YGJ_Team2_T2301E\be_projectSEM3\Payment.Persistence\bin\Debug\net6.0\Payment.Applications.pdb
+D:\SEM3 ApTech\YGJ_Team2_T2301E\be_projectSEM3\Payment.Persistence\bin\Debug\net6.0\Payment.Service.pdb
+D:\SEM3 ApTech\YGJ_Team2_T2301E\be_projectSEM3\Payment.Persistence\bin\Debug\net6.0\Payment.Ultils.pdb
+D:\SEM3 ApTech\YGJ_Team2_T2301E\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.csproj.AssemblyReference.cache
+D:\SEM3 ApTech\YGJ_Team2_T2301E\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEM3 ApTech\YGJ_Team2_T2301E\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.AssemblyInfoInputs.cache
+D:\SEM3 ApTech\YGJ_Team2_T2301E\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.AssemblyInfo.cs
+D:\SEM3 ApTech\YGJ_Team2_T2301E\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.csproj.CoreCompileInputs.cache
+D:\SEM3 ApTech\YGJ_Team2_T2301E\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.sourcelink.json
+D:\SEM3 ApTech\YGJ_Team2_T2301E\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\Payment..B7F43A29.Up2Date
+D:\SEM3 ApTech\YGJ_Team2_T2301E\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.dll
+D:\SEM3 ApTech\YGJ_Team2_T2301E\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\refint\Payment.Persistence.dll
+D:\SEM3 ApTech\YGJ_Team2_T2301E\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.pdb
+D:\SEM3 ApTech\YGJ_Team2_T2301E\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\ref\Payment.Persistence.dll
+D:\SEM3 ApTech\Project-S3-YGJ\be_projectSEM3\Payment.Persistence\bin\Debug\net6.0\Payment.Persistence.deps.json
+D:\SEM3 ApTech\Project-S3-YGJ\be_projectSEM3\Payment.Persistence\bin\Debug\net6.0\Payment.Persistence.dll
+D:\SEM3 ApTech\Project-S3-YGJ\be_projectSEM3\Payment.Persistence\bin\Debug\net6.0\Payment.Persistence.pdb
+D:\SEM3 ApTech\Project-S3-YGJ\be_projectSEM3\Payment.Persistence\bin\Debug\net6.0\Payment.Applications.dll
+D:\SEM3 ApTech\Project-S3-YGJ\be_projectSEM3\Payment.Persistence\bin\Debug\net6.0\Payment.Service.dll
+D:\SEM3 ApTech\Project-S3-YGJ\be_projectSEM3\Payment.Persistence\bin\Debug\net6.0\Payment.Ultils.dll
+D:\SEM3 ApTech\Project-S3-YGJ\be_projectSEM3\Payment.Persistence\bin\Debug\net6.0\Payment.Applications.pdb
+D:\SEM3 ApTech\Project-S3-YGJ\be_projectSEM3\Payment.Persistence\bin\Debug\net6.0\Payment.Service.pdb
+D:\SEM3 ApTech\Project-S3-YGJ\be_projectSEM3\Payment.Persistence\bin\Debug\net6.0\Payment.Ultils.pdb
+D:\SEM3 ApTech\Project-S3-YGJ\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.csproj.AssemblyReference.cache
+D:\SEM3 ApTech\Project-S3-YGJ\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEM3 ApTech\Project-S3-YGJ\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.AssemblyInfoInputs.cache
+D:\SEM3 ApTech\Project-S3-YGJ\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.AssemblyInfo.cs
+D:\SEM3 ApTech\Project-S3-YGJ\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.csproj.CoreCompileInputs.cache
+D:\SEM3 ApTech\Project-S3-YGJ\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\Payment..B7F43A29.Up2Date
+D:\SEM3 ApTech\Project-S3-YGJ\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.dll
+D:\SEM3 ApTech\Project-S3-YGJ\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\refint\Payment.Persistence.dll
+D:\SEM3 ApTech\Project-S3-YGJ\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.pdb
+D:\SEM3 ApTech\Project-S3-YGJ\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\ref\Payment.Persistence.dll
+D:\Project-S3-YGJ\be_projectSEM3\Payment.Persistence\bin\Debug\net6.0\Payment.Persistence.deps.json
+D:\Project-S3-YGJ\be_projectSEM3\Payment.Persistence\bin\Debug\net6.0\Payment.Persistence.dll
+D:\Project-S3-YGJ\be_projectSEM3\Payment.Persistence\bin\Debug\net6.0\Payment.Persistence.pdb
+D:\Project-S3-YGJ\be_projectSEM3\Payment.Persistence\bin\Debug\net6.0\Payment.Applications.dll
+D:\Project-S3-YGJ\be_projectSEM3\Payment.Persistence\bin\Debug\net6.0\Payment.Service.dll
+D:\Project-S3-YGJ\be_projectSEM3\Payment.Persistence\bin\Debug\net6.0\Payment.Ultils.dll
+D:\Project-S3-YGJ\be_projectSEM3\Payment.Persistence\bin\Debug\net6.0\Payment.Applications.pdb
+D:\Project-S3-YGJ\be_projectSEM3\Payment.Persistence\bin\Debug\net6.0\Payment.Service.pdb
+D:\Project-S3-YGJ\be_projectSEM3\Payment.Persistence\bin\Debug\net6.0\Payment.Ultils.pdb
+D:\Project-S3-YGJ\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.csproj.AssemblyReference.cache
+D:\Project-S3-YGJ\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project-S3-YGJ\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.AssemblyInfoInputs.cache
+D:\Project-S3-YGJ\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.AssemblyInfo.cs
+D:\Project-S3-YGJ\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.csproj.CoreCompileInputs.cache
+D:\Project-S3-YGJ\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.sourcelink.json
+D:\Project-S3-YGJ\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\Payment..B7F43A29.Up2Date
+D:\Project-S3-YGJ\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.dll
+D:\Project-S3-YGJ\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\refint\Payment.Persistence.dll
+D:\Project-S3-YGJ\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\Payment.Persistence.pdb
+D:\Project-S3-YGJ\be_projectSEM3\Payment.Persistence\obj\Debug\net6.0\ref\Payment.Persistence.dll

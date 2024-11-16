@@ -1,0 +1,106 @@
+﻿@using thuongmaidientus1.ViewModel;
+@model SendEmail
+@{
+    string? base64String = Model.iamge;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Email Template</title>
+    <style>
+        h1{
+            align-items:center;
+            text-align:center;
+            font-weight:bold;
+        }
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 50px;
+            background-color: #f9f9f9;
+        }
+
+        .email-container {
+            background-color: #ffffff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            max-width: 600px;
+            margin: 0 auto;
+            align-items: center;
+            text-align: center;
+        }
+
+        .email-header img {
+            width: 150px;
+            align-items: center;
+            text-align: center;
+        }
+
+        .email-content {
+            margin-top: 20px;
+            align-items: center;
+            text-align: center;
+        }
+
+            .email-content h1 {
+                font-size: 24px;
+                color: #333333;
+                align-items: center;
+                text-align: center;
+            }
+
+            .email-content p {
+                font-size: 16px;
+                color: #555555;
+                align-items: center;
+                text-align: center;
+            }
+
+        .verification-code {
+            font-size: 32px;
+            font-weight: bold;
+            color: #000000;
+            margin: 20px 0;
+            align-items: center;
+            text-align: center;
+        }
+
+        .email-footer {
+            margin-top: 30px;
+            font-size: 14px;
+            color: #777777;
+            align-items: center;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+
+    @if (!string.IsNullOrEmpty(base64String))
+    {
+        string imageBase64 = string.Format("data:image/png;base64,{0}", base64String);
+        // Hiển thị ảnh từ chuỗi Base64
+        @* <img src="data:image/png;base64,@base64String" alt="Ảnh từ dữ liệu Base64" /> *@
+        @* <img src="~/images/YGJ-logo.png" alt="Logo" class="logo"> *@
+        <h1>YGJ</h1>
+        <div class="email-container">
+            <div class="email-header">
+                @* <img src="~/images/YGJ-logo.png" alt="Logo" /> *@
+            </div>
+            <div class="email-content">
+                <p>Hello, @Model.name!</p>
+                <p>Thank you for subscribing to our service. Please use the verification code below to register an account on our website::</p>
+                <div class="verification-code">@Model.active</div>
+                <p>If you didn't request this, you can ignore this email or let us know.</p>
+            </div>
+            <div class="email-footer">
+                <p>© 2024 T2301E-Team2. All rights reserved.</p>
+            </div>
+        </div>
+    }
+    else
+    {
+        <p>Không có dữ liệu ảnh</p>
+    }
+</body>

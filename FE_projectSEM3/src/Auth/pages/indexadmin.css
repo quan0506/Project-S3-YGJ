@@ -1,0 +1,12 @@
+
+.carousel-image-container {
+    max-height: 200px;
+    overflow: hidden;
+}
+
+.icon-delete-pen{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+

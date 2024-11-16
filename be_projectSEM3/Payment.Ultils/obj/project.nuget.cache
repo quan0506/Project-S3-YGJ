@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "V+JaxmtV6Z8=",
+  "success": true,
+  "projectFilePath": "D:\\SEM3 ApTech\\Project-S3-YGJ\\be_projectSEM3\\Payment.Ultils\\Payment.Ultils.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.32\\microsoft.windowsdesktop.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.32\\microsoft.netcore.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.32\\microsoft.aspnetcore.app.ref.6.0.32.nupkg.sha512"
+  ],
+  "logs": []
+}

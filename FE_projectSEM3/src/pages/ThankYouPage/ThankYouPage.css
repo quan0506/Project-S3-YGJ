@@ -1,0 +1,64 @@
+#thank-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-image: url('https://media.istockphoto.com/id/1400477784/photo/pink-background-for-product-presentation.jpg?s=612x612&w=0&k=20&c=cmGz6Du3KlLLo81zKImcMvY2gYAzYvU9ei5UrlKG3rI=');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  height: 100vh;
+  text-align: center;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.thank-container {
+  background-color: rgba(0, 0, 0, 0.7);
+  padding: 20px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 20px;
+}
+
+#thank-page .product-image-thank {
+  height: 350px;
+  width: 350px;
+  margin: 10px;
+}
+
+.thank-content {
+  color: #fff;
+}
+
+.thank-title {
+  font-size: 50px;
+  margin-bottom: 1em;
+}
+
+.thank-text {
+  font-size: 1.2em;
+  margin-bottom: 1em;
+  max-width: 500px;
+}
+
+.social-buttons {
+  display: flex;
+  gap: 10px;
+}
+
+.back-link-button, .check-order-button {
+  padding: 10px 20px;
+  font-size: 1em;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: transparent;
+  color: #fff ;
+  border: 1px solid rgb(224 170 91);
+}
+
+.social-buttons a{
+  color: #fff !important;
+}

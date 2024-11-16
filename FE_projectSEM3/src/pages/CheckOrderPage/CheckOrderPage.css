@@ -1,0 +1,95 @@
+/* src/components/CheckOrderPage.css */
+#check-order-page {
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+    font-family: Arial, sans-serif;
+    color: #333;
+    background-color: #fff;
+    border: 1px solid #ddd;
+  }
+
+  .order-details {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 20px;
+  }
+
+  #check-order-page .product-image {
+    width: 100px;
+    height: auto;
+    margin-right: 20px;
+    border-radius: 10px;
+  }
+
+  .product-info {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+  }
+
+  .product-title {
+    font-size: 20px;
+    font-weight: bold;
+  }
+
+  .product-category, .product-quantity {
+    font-size: 16px;
+    color: #666;
+  }
+
+  .product-price {
+    font-size: 16px;
+    font-weight: bold;
+    color: #333;
+  }
+
+  .divider {
+    border: 0;
+    height: 1px;
+    background: #ddd;
+    margin: 20px 0;
+  }
+
+  .order-footer {
+    border-top: 1px solid #eee;
+    padding-top: 20px;
+  }
+
+  .delivery-date {
+    font-size: 0.9em;
+    margin-bottom: 20px;
+  }
+
+  .order-total {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+
+  .total-label {
+    font-size: 16px;
+    color: #666;
+  }
+
+  .total-amount {
+    color: #ff4d4f;
+  }
+
+  .order-actions {
+    display: flex;
+    gap: 10px;
+  }
+
+  .contact-button, .cancel-button, .back-order-button{
+    background-color: #ff4d4f;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }

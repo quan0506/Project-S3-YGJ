@@ -1,0 +1,28 @@
+
+#login .ant-col-24.ant-form-item-label{
+    padding: 0 !important;
+}
+
+#login .ant-form-item  {
+    margin-bottom: 15px;
+    width: 349px !important;
+}
+ .signup-btns{
+     width: 349px;
+     height: 40px;
+     background: #00bfa5;
+     border: none;
+     border-radius: 4px;
+     color: white;
+     font-size: 16px;
+     cursor: pointer;
+     margin: 0;
+     padding: 0;
+ }
+
+.right-panels{
+    width: 57%;
+}
+#login .ant-form-item-label >label{
+    color: white;
+}

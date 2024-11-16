@@ -1,0 +1,47 @@
+
+#checkout-form{
+    width: 90%;
+    margin: 0 auto;
+}
+#checkout-form{
+    margin-top: 10%;
+    background-color: white;
+}
+.shipping-options {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin: 20px 0;
+}
+
+.shipping-options::before,
+.shipping-options::after {
+    content: '';
+    flex: 1;
+    border-bottom: 1px solid #ccc;
+}
+
+.shipping-options::before {
+    margin-right: .25em;
+}
+.shipping-options::after {
+    margin-left: .25em;
+}
+.payment{
+    width: 200px;
+}
+
+.pay{
+    background: #FFFFFF;
+    box-shadow: var(--box-shadow);
+    display: flex;
+    justify-content: space-around;
+}
+.pay img{
+    width: 100px;
+    margin-left: 10px;
+}
+#checkout-form .form-check{
+    display: flex !important;
+    align-items: center !important;
+}

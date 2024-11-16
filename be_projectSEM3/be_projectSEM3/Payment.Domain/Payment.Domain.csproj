@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Event\**" />
+    <Compile Remove="Exceptions\**" />
+    <Compile Remove="ValueObject\**" />
+    <EmbeddedResource Remove="Event\**" />
+    <EmbeddedResource Remove="Exceptions\**" />
+    <EmbeddedResource Remove="ValueObject\**" />
+    <None Remove="Event\**" />
+    <None Remove="Exceptions\**" />
+    <None Remove="ValueObject\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Mapster" Version="7.4.1-pre01" />
+    <PackageReference Include="MediatR" Version="12.3.0" />
+  </ItemGroup>
+
+</Project>
