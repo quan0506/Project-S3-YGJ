@@ -6,7 +6,6 @@ import Paging from '../components/paging/paging';
 import AddProductModal from './Modal/AddProducts';
 import { Carousel } from 'react-responsive-carousel';
 
-
 const Shipping = () => {
     const [modalIsOpen, setModalIsOpen] = useState(false);
     const [products, setProducts] = useState([]);
